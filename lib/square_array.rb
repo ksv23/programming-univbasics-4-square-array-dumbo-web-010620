@@ -7,6 +7,3 @@ def square_array(numbers)
   end
   squared
 end
-
-numbers = [3,6,9]
-puts square_array(numbers)
