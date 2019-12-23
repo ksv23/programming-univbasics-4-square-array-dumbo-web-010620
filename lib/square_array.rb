@@ -8,5 +8,5 @@ def square_array(numbers)
   squared
 end
 
-
-puts square_array(6)
+numbers = [3,6,9]
+puts square_array(numbers)
